@@ -31,6 +31,9 @@ img {
   padding: 13px;
   font-weight: 500;
 }
+.main-menu li a:hover, #active {
+  color: #ca9a26;
+}
 .homepage-slides {
   background: #263238;
   color: #fff;
